@@ -48,6 +48,7 @@ li {
 }
 
 .drop_list {
+  display: none;
   position: absolute;
   transform: translateX(-22%);
   padding: 0 10px;
